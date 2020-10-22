@@ -1,33 +1,37 @@
 import PostingList
-table = dict()
-distinct_tokens = set()
-
-
-def get_index(token):
-    # print(type(table.get(token)))
-    return table.get(token)
+import re
 
 
 class InvertedIndex:
-    def __init__(self, doc):
+    def __init__(self, doc, table):
         self.doc = doc
-        # self.list = PostingList(self.doc.get_doc_id
         self.postinglist = PostingList.PostingList
+        self.distinct_tokens = set()
+        self.table = table
+        self.counter = 0
+        self.next_progress = 0
 
     def add(self):
-        tokens = self.doc.get_body().split(" ")
+        tokens = re.findall(r"[\w']+", self.doc.get_body())
 
         for token in tokens:
-            distinct_tokens.add(token)
-        # print(distinct_tokens)
+            self.distinct_tokens.add(token)
 
-        for token in tokens:
-            if token not in table:
-                table.update({token: PostingList.PostingList(self.doc.get_doc_id())})
-                table.get(token)
-                # print(self.doc.get_body())
+        for token in self.distinct_tokens:
+            # print(table)
+            progress = int((self.counter * 100 / len(self.distinct_tokens)))
+            self.counter += 1
+            if progress - self.next_progress == 1:
+                self.next_progress = progress
+                print("|", end="", flush=True)
 
-
-# p = Document("funny", "there are no man no")
-# p1 = InvertedIndex(p)
-# p1.add()
+            tmp = list()
+            if token not in self.table:
+                self.table[token] = []
+            elif self.table.get(token) is not None:
+                if self.doc.get_doc_id() in self.table.get(token):
+                    break
+                tmp = self.table[token]
+            tmp.append(self.doc.get_doc_id())
+            self.table[token] = tmp
+        print()
