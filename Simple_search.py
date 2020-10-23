@@ -21,37 +21,37 @@ for name in texts:
     store(document).add()
     print("Indexing {0}".format(name))
     index(document, table).add()
+print("Loading...")
+table.close()
 
-_table = shelve.open(table_name)
 
-
-def simple_search():
+def simple_search(t):
     try:
-        for x in _table.get(line):
+        for x in t.get(line):
             get_id_name(x)
     except Exception:
         print("No Match")
 
 
-def and_ing():
+def and_ing(t):
     try:
-        compare(PostingList.and_postinglist(_table.get(words[0]), _table.get(words[1])))
+        compare(PostingList.and_postinglist(t.get(words[0]), t.get(words[1])))
         print("↑These books contain both the words \"{}\" and \"{}\"".format(words[0], words[1]))
     except Exception as e:
         handle_error(type(e).__name__)
 
 
-def or_ing():
+def or_ing(t):
     try:
-        compare(PostingList.or_postinglist(_table.get(words[0]), _table.get(words[1])))
+        compare(PostingList.or_postinglist(t.get(words[0]), t.get(words[1])))
         print("↑These books contain at least one of the words \"{}\" or \"{}\"".format(words[0], words[1]))
     except Exception as e:
         handle_error(type(e).__name__)
 
 
-def not_ing():
+def not_ing(t):
     try:
-        compare(PostingList.not_postinglist(_table.get(words[0]), _table.get(words[1])))
+        compare(PostingList.not_postinglist(t.get(words[0]), t.get(words[1])))
         print("↑These books only contain \"{}\" and don't contain \"{}\"".format(words[0], words[1]))
     except Exception as e:
         handle_error(type(e).__name__)
@@ -74,8 +74,8 @@ def get_id_name(_word):
           Document.get_name(DocumentStore.get(_word)))
 
 
-table.close()
 while 1:
+    _table = shelve.open(table_name)
     print("\n1.Simple Search\n"
           "2.AND_ing Search of two word\n"
           "3.OR_ing Search of two word\n"
@@ -83,19 +83,19 @@ while 1:
 
 
     def simple():
-        simple_search()
+        simple_search(_table)
 
 
     def anding():
-        and_ing()
+        and_ing(_table)
 
 
     def oring():
-        or_ing()
+        or_ing(_table)
 
 
     def noting():
-        not_ing()
+        not_ing(_table)
 
 
     options = {
@@ -117,3 +117,4 @@ while 1:
 
         words = line.split(" ")
         options[select]()
+    _table.close()
