@@ -1,23 +1,22 @@
 from os import listdir
 from os.path import isfile, join
-import os
-import Document
-import DocumentsStore
-import Inverted_index
+from Document import Document
+from DocumentsStore import DocumentStore
+from Inverted_index import InvertedIndex
 import shelve
 import PostingList
 
 resource = "resources"
 texts = [f for f in listdir(resource) if isfile(join(resource, f))]
-store = DocumentsStore.DocumentStore
-index = Inverted_index.InvertedIndex
+store = DocumentStore
+index = InvertedIndex
 
 table = shelve.open('posting list', writeback=True)
 for name in texts:
-    stream = open(os.path.join(resource, name), 'rb').read()
+    stream = open(join(resource, name), 'rb').read()
     body = str(stream).lower()
     name = name.replace(".txt", "")
-    document = Document.Document(name, body)
+    document = Document(name, body)
     store(document).add()
     print("Indexing {0}".format(name))
     index(document, table).add()
@@ -28,8 +27,7 @@ _table = shelve.open('posting list')
 def simple_search():
     try:
         for x in _table.get(line):
-            print(Document.Document.get_doc_id(DocumentsStore.get(x)),
-                  Document.Document.get_name(DocumentsStore.get(x)))
+            get_id_name(x)
     except TypeError:
         print("No Match")
     except KeyError:
@@ -57,13 +55,17 @@ def not_ing():
         print("No Match")
 
 
-def compare(p_list):
+def compare(_words):
     try:
-        for x in p_list:
-            print(Document.Document.get_doc_id(DocumentsStore.get(x)),
-                  Document.Document.get_name(DocumentsStore.get(x)))
+        for x in _words:
+            get_id_name(x)
     except IndexError:
         print("error! Insert two words e.g: blue green")
+
+
+def get_id_name(_word):
+    print(Document.get_doc_id(DocumentsStore.get(_word)),
+          Document.get_name(DocumentsStore.get(_word)))
 
 
 table.close()
@@ -73,22 +75,17 @@ while 1:
           "3.Or_ing Search of two word\n"
           "4.Not_ing Search of two word")
 
-
     def simple():
         simple_search()
-
 
     def anding():
         and_ing()
 
-
     def oring():
         or_ing()
 
-
     def noting():
         not_ing()
-
 
     options = {
         1: simple,
