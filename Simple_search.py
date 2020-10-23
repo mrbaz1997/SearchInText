@@ -1,14 +1,14 @@
 from os import listdir
 from os.path import isfile, join
 from Document import Document
-from DocumentsStore import DocumentStore
+import DocumentsStore
 from Inverted_index import InvertedIndex
 import shelve
 import PostingList
 
 resource = "resources"
 texts = [f for f in listdir(resource) if isfile(join(resource, f))]
-store = DocumentStore
+store = DocumentsStore.DocumentStore
 index = InvertedIndex
 
 table = shelve.open('posting list', writeback=True)
