@@ -97,11 +97,3 @@ def sort_lists(other, this):
     except AttributeError:
         # print("No Match")
         return "No Match"
-
-# list1 = PostingList([13, 4, 6, 3, 1, 8])
-# list1.get()
-# list2 = PostingList([6, 5, 4, 8, 12, 22])
-# list2.get()
-# and_postinglist(list1, list2)
-# or_postinglist(list1, list2)
-# not_postinglist(list1, list2)

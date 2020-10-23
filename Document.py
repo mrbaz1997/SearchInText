@@ -18,7 +18,3 @@ class Document:
 
     def get_body(self):
         return self.body
-
-
-# p1 = Document(" , "this is body")
-# print(p1.get_body(), p2.get_doc_id(), p3.get_doc_id())

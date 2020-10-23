@@ -18,7 +18,6 @@ class InvertedIndex:
             self.distinct_tokens.add(token)
 
         for token in self.distinct_tokens:
-            # print(table)
             progress = int((self.counter * 100 / len(self.distinct_tokens)))
             self.counter += 1
             if progress - self.next_progress == 1:
