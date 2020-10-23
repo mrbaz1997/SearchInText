@@ -1,14 +1,14 @@
 from os import listdir
 from os.path import isfile, join
 from Document import Document
-import DocumentsStore
-from Inverted_index import InvertedIndex
+import DocumentStore
+from InvertedIndex import InvertedIndex
 import shelve
 import PostingList
 
 resource = "resources"
 texts = [f for f in listdir(resource) if isfile(join(resource, f))]
-store = DocumentsStore.DocumentStore
+store = DocumentStore.DocumentStore
 index = InvertedIndex
 
 table_name = 'posting list'
@@ -29,8 +29,8 @@ def simple_search():
     try:
         for x in _table.get(line):
             get_id_name(x)
-    except Exception as e:
-        handle_error(type(e).__name__)
+    except Exception:
+        print("No Match")
 
 
 def and_ing():
@@ -70,8 +70,8 @@ def compare(_words):
 
 
 def get_id_name(_word):
-    print(Document.get_doc_id(DocumentsStore.get(_word)),
-          Document.get_name(DocumentsStore.get(_word)))
+    print(Document.get_doc_id(DocumentStore.get(_word)),
+          Document.get_name(DocumentStore.get(_word)))
 
 
 table.close()
@@ -117,5 +117,3 @@ while 1:
 
         words = line.split(" ")
         options[select]()
-
-    # table.close()
