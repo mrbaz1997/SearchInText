@@ -105,7 +105,7 @@ a draught, and shut the window.
 I get unreasonably angry with John sometimes. I’m sure I never used to be
 so sensitive. I think it is due to this nervous condition.
 
-But John says if I feel so I shall neglect proper self-control; so I take
+But John says if I feel so I shall neglect proper cls-control; so I take
 pains to control myself,—before him, at least,—and that makes
 me very tired.
 
@@ -406,7 +406,7 @@ He said I was his darling and his comfort and all he had, and that I must
 take care of myself for his sake, and keep well.
 
 He says no one but myself can help me out of it, that I must use my will
-and self-control and not let any silly fancies run away with me.
+and cls-control and not let any silly fancies run away with me.
 
 There’s one comfort, the baby is well and happy, and does not have to
 occupy this nursery with the horrid wallpaper.

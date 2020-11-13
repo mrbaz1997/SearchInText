@@ -738,7 +738,7 @@ cover
       communicate.
 
       “_You_ began the evening well, Charlotte,” said Mrs. Bennet with
-      civil self-command to Miss Lucas. “_You_ were Mr. Bingley’s first
+      civil cls-command to Miss Lucas. “_You_ were Mr. Bingley’s first
       choice.”
 
       “Yes; but he seemed to like his second better.”
@@ -809,7 +809,7 @@ cover
       that I have ever read, I am convinced that it is very common
       indeed; that human nature is particularly prone to it, and that
       there are very few of us who do not cherish a feeling of
-      self-complacency on the score of some quality or other, real or
+      cls-complacency on the score of some quality or other, real or
       imaginary. Vanity and pride are different things, though the
       words are often used synonymously. A person may be proud without
       being vain. Pride relates more to our opinion of ourselves,
@@ -1082,7 +1082,7 @@ cover
       “You are considering how insupportable it would be to pass many
       evenings in this manner—in such society; and indeed I am quite of
       your opinion. I was never more annoyed! The insipidity, and yet
-      the noise—the nothingness, and yet the self-importance of all
+      the noise—the nothingness, and yet the cls-importance of all
       those people! What would I give to hear your strictures on them!”
 
       “Your conjecture is totally wrong, I assure you. My mind was more
@@ -1817,7 +1817,7 @@ cover
       complexion and good-humoured countenance; a favourite with her
       mother, whose affection had brought her into public at an early
       age. She had high animal spirits, and a sort of natural
-      self-consequence, which the attention of the officers, to whom
+      cls-consequence, which the attention of the officers, to whom
       her uncle’s good dinners, and her own easy manners recommended
       her, had increased into assurance. She was very equal, therefore,
       to address Mr. Bingley on the subject of the ball, and abruptly
@@ -2548,7 +2548,7 @@ cover
 
       “No, my dear, I think not. I have great hopes of finding him
       quite the reverse. There is a mixture of servility and
-      self-importance in his letter, which promises well. I am
+      cls-importance in his letter, which promises well. I am
       impatient to see him.”
 
       “In point of composition,” said Mary, “the letter does not seem
@@ -2754,14 +2754,14 @@ cover
       without forming at it any useful acquaintance. The subjection in
       which his father had brought him up had given him originally
       great humility of manner; but it was now a good deal counteracted
-      by the self-conceit of a weak head, living in retirement, and the
+      by the cls-conceit of a weak head, living in retirement, and the
       consequential feelings of early and unexpected prosperity. A
       fortunate chance had recommended him to Lady Catherine de Bourgh
       when the living of Hunsford was vacant; and the respect which he
       felt for her high rank, and his veneration for her as his
       patroness, mingling with a very good opinion of himself, of his
       authority as a clergyman, and his right as a rector, made him
-      altogether a mixture of pride and obsequiousness, self-importance
+      altogether a mixture of pride and obsequiousness, cls-importance
       and humility.
 
       Having now a good house and a very sufficient income, he intended
@@ -3272,7 +3272,7 @@ cover
       This information made Elizabeth smile, as she thought of poor
       Miss Bingley. Vain indeed must be all her attentions, vain and
       useless her affection for his sister and her praise of himself,
-      if he were already self-destined for another.
+      if he were already cls-destined for another.
 
       “Mr. Collins,” said she, “speaks highly both of Lady Catherine
       and her daughter; but from some particulars that he has related
@@ -3844,7 +3844,7 @@ cover
       subject, and Mrs. Bennet seemed incapable of fatigue while
       enumerating the advantages of the match. His being such a
       charming young man, and so rich, and living but three miles from
-      them, were the first points of self-gratulation; and then it was
+      them, were the first points of cls-gratulation; and then it was
       such a comfort to think how fond the two sisters were of Jane,
       and to be certain that they must desire the connection as much as
       she could do. It was, moreover, such a promising thing for her
@@ -4163,7 +4163,7 @@ cover
       otherwise. In making me the offer, you must have satisfied the
       delicacy of your feelings with regard to my family, and may take
       possession of Longbourn estate whenever it falls, without any
-      self-reproach. This matter may be considered, therefore, as
+      cls-reproach. This matter may be considered, therefore, as
       finally settled.” And rising as she thus spoke, she would have
       quitted the room, had Mr. Collins not thus addressed her:
 
@@ -4213,7 +4213,7 @@ cover
       express authority of both your excellent parents, my proposals
       will not fail of being acceptable.”
 
-      To such perseverance in wilful self-deception Elizabeth would
+      To such perseverance in wilful cls-deception Elizabeth would
       make no reply, and immediately and in silence withdrew;
       determined, if he persisted in considering her repeated refusals
       as flattering encouragement, to apply to her father, whose
@@ -4448,7 +4448,7 @@ cover
       attended them to their aunt’s where his regret and vexation, and
       the concern of everybody, was well talked over. To Elizabeth,
       however, he voluntarily acknowledged that the necessity of his
-      absence _had_ been self-imposed.
+      absence _had_ been cls-imposed.
 
       “I found,” said he, “as the time drew near that I had better not
       meet Mr. Darcy; that to be in the same room, the same party with
@@ -4730,7 +4730,7 @@ cover
       difficulty; for the curiosity excited by his long absence burst
       forth in such very direct questions on his return as required
       some ingenuity to evade, and he was at the same time exercising
-      great self-denial, for he was longing to publish his prosperous
+      great cls-denial, for he was longing to publish his prosperous
       love.
 
       As he was to begin his journey too early on the morrow to see any
@@ -4843,7 +4843,7 @@ cover
       what she had heard, and doubting whether she was authorised to
       mention it, when Sir William Lucas himself appeared, sent by his
       daughter, to announce her engagement to the family. With many
-      compliments to them, and much self-gratulation on the prospect of
+      compliments to them, and much cls-gratulation on the prospect of
       a connection between the houses, he unfolded the matter—to an
       audience not merely wondering, but incredulous; for Mrs. Bennet,
       with more perseverance than politeness, protested he must be
@@ -6065,7 +6065,7 @@ cover
       conciliating, nor was her manner of receiving them such as to
       make her visitors forget their inferior rank. She was not
       rendered formidable by silence; but whatever she said was spoken
-      in so authoritative a tone, as marked her self-importance, and
+      in so authoritative a tone, as marked her cls-importance, and
       brought Mr. Wickham immediately to Elizabeth’s mind; and from the
       observation of the day altogether, she believed Lady Catherine to
       be exactly what he represented.
@@ -6820,10 +6820,10 @@ cover
       Fitzwilliam. “But so we all do. It is only that he has better
       means of having it than many others, because he is rich, and many
       others are poor. I speak feelingly. A younger son, you know, must
-      be inured to self-denial and dependence.”
+      be inured to cls-denial and dependence.”
 
       “In my opinion, the younger son of an earl can know very little
-      of either. Now seriously, what have you ever known of self-denial
+      of either. Now seriously, what have you ever known of cls-denial
       and dependence? When have you been prevented by want of money
       from going wherever you chose, or procuring anything you had a
       fancy for?”
@@ -7702,7 +7702,7 @@ cover
 
       The compliment to herself and her sister was not unfelt. It
       soothed, but it could not console her for the contempt which had
-      thus been self-attracted by the rest of her family; and as she
+      thus been cls-attracted by the rest of her family; and as she
       considered that Jane’s disappointment had in fact been the work
       of her nearest relations, and reflected how materially the credit
       of both must be hurt by such impropriety of conduct, she felt
@@ -7846,7 +7846,7 @@ cover
       but while they were supported by their mother’s indulgence, what
       chance could there be of improvement? Catherine, weak-spirited,
       irritable, and completely under Lydia’s guidance, had been always
-      affronted by their advice; and Lydia, self-willed and careless,
+      affronted by their advice; and Lydia, cls-willed and careless,
       would scarcely give them a hearing. They were ignorant, idle, and
       vain. While there was an officer in Meryton, they would flirt
       with him; and while Meryton was within a walk of Longbourn, they
@@ -9532,7 +9532,7 @@ cover
       could hardly restrain her astonishment from being visible. Never,
       even in the company of his dear friends at Netherfield, or his
       dignified relations at Rosings, had she seen him so desirous to
-      please, so free from self-consequence or unbending reserve, as
+      please, so free from cls-consequence or unbending reserve, as
       now, when no importance could result from the success of his
       endeavours, and when even the acquaintance of those to whom his
       attentions were addressed would draw down the ridicule and
@@ -9802,7 +9802,7 @@ cover
       her eyes, which have sometimes been called so fine, I could never
       see anything extraordinary in them. They have a sharp, shrewish
       look, which I do not like at all; and in her air altogether there
-      is a self-sufficiency without fashion, which is intolerable.”
+      is a cls-sufficiency without fashion, which is intolerable.”
 
       Persuaded as Miss Bingley was that Darcy admired Elizabeth, this
       was not the best method of recommending herself; but angry people
@@ -10030,13 +10030,13 @@ cover
       instantly understood it. Her power was sinking; everything _must_
       sink under such a proof of family weakness, such an assurance of
       the deepest disgrace. She could neither wonder nor condemn, but
-      the belief of his self-conquest brought nothing consolatory to
+      the belief of his cls-conquest brought nothing consolatory to
       her bosom, afforded no palliation of her distress. It was, on the
       contrary, exactly calculated to make her understand her own
       wishes; and never had she so honestly felt that she could have
       loved him, as now, when all love must be vain.
 
-      But self, though it would intrude, could not engross her.
+      But cls, though it would intrude, could not engross her.
       Lydia—the humiliation, the misery she was bringing on them all,
       soon swallowed up every private care; and covering her face with
       her handkerchief, Elizabeth was soon lost to everything else;
@@ -10299,7 +10299,7 @@ cover
       interesting subject, by its repeated discussion, no other could
       detain them from it long, during the whole of the journey. From
       Elizabeth’s thoughts it was never absent. Fixed there by the
-      keenest of all anguish, self-reproach, she could find no interval
+      keenest of all anguish, cls-reproach, she could find no interval
       of ease or forgetfulness.
 
       They travelled as expeditiously as possible, and, sleeping one

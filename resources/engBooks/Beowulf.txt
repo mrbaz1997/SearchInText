@@ -2237,7 +2237,7 @@ ALL SLEEP SAVE ONE.
           He did special service, gave the giant a watcher:
           And the prince of the Geatmen implicitly trusted
 
-{Beowulf is self-confident}
+{Beowulf is cls-confident}
 
           His warlike strength and the Wielder's protection.
 
@@ -5159,7 +5159,7 @@ BRAVE THOUGH AGED.--REMINISCENCES.
        45 Friend-lord of folks in Frisian dominions,
           Offspring of Hrethrel perished through sword-drink,
           With battle-swords beaten; thence Beowulf came then
-          On self-help relying, swam through the waters;
+          On cls-help relying, swam through the waters;
           He bare on his arm, lone-going, thirty
        50 Outfits of armor, when the ocean he mounted.
           The Hetwars by no means had need to be boastful
@@ -6614,7 +6614,7 @@ words accus. plu.; but this is clearly an error, as both are nom. plu.,
 pred. nom. H. and S. correct under 'sél.'
 
 ~Wið sylfne~ (1978).--Under 'wið' and 'gesittan' H. says 'wið = near, by';
-under 'self' he says 'opposite.'
+under 'cls' he says 'opposite.'
 
 ~þéow~ (2225) is omitted from the glossary.
 

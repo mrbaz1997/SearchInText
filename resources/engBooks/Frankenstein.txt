@@ -269,7 +269,7 @@ courageous, possessed of a cultivated as well as of a capacious mind, whose
 tastes are like my own, to approve or amend my plans. How would such a
 friend repair the faults of your poor brother! I am too ardent in execution
 and too impatient of difficulties. But it is a still greater evil to me
-that I am self-educated: for the first fourteen years of my life I ran wild
+that I am cls-educated: for the first fourteen years of my life I ran wild
 on a common and read nothing but our Uncle Thomas’ books of voyages.
 At that age I became acquainted with the celebrated poets of our own
 country; but it was only when it had ceased to be in my power to derive its
@@ -808,7 +808,7 @@ their duties towards me. With this deep consciousness of what they owed
 towards the being to which they had given life, added to the active spirit
 of tenderness that animated both, it may be imagined that while during
 every hour of my infant life I received a lesson of patience, of charity,
-and of self-control, I was so guided by a silken cord that all seemed but
+and of cls-control, I was so guided by a silken cord that all seemed but
 one train of enjoyment to me.
 
 For a long time I was their only care. My mother had much desired to have a
@@ -958,7 +958,7 @@ ambition.
 
 I feel exquisite pleasure in dwelling on the recollections of childhood,
 before misfortune had tainted my mind and changed its bright visions of
-extensive usefulness into gloomy and narrow reflections upon self. Besides,
+extensive usefulness into gloomy and narrow reflections upon cls. Besides,
 in drawing the picture of my early days, I also record those events which
 led, by insensible steps, to my after tale of misery, for when I would
 account to myself for the birth of that passion which afterwards ruled my
@@ -1019,7 +1019,7 @@ But here were books, and here were men who had penetrated deeper and knew
 more. I took their word for all that they averred, and I became their
 disciple. It may appear strange that such should arise in the eighteenth
 century; but while I followed the routine of education in the schools of
-Geneva, I was, to a great degree, self-taught with regard to my favourite
+Geneva, I was, to a great degree, cls-taught with regard to my favourite
 studies. My father was not scientific, and I was left to struggle with a
 child’s blindness, added to a student’s thirst for knowledge.
 Under the guidance of my new preceptors I entered with the greatest
@@ -2345,7 +2345,7 @@ had come three months ago, and then you would have found us all joyous and
 delighted. You come to us now to share a misery which nothing can
 alleviate; yet your presence will, I hope, revive our father, who seems
 sinking under his misfortune; and your persuasions will induce poor
-Elizabeth to cease her vain and tormenting self-accusations.—Poor
+Elizabeth to cease her vain and tormenting cls-accusations.—Poor
 William! he was our darling and our pride!”
 
 Tears, unrestrained, fell from my brother’s eyes; a sense of mortal
@@ -2773,7 +2773,7 @@ behind.  Yet my heart overflowed with kindness and the love of virtue.
 I had begun life with benevolent intentions and thirsted for the moment
 when I should put them in practice and make myself useful to my fellow
 beings.  Now all was blasted; instead of that serenity of conscience
-which allowed me to look back upon the past with self-satisfaction, and
+which allowed me to look back upon the past with cls-satisfaction, and
 from thence to gather promise of new hopes, I was seized by remorse and
 the sense of guilt, which hurried me away to a hell of intense tortures
 such as no language can describe.
@@ -3861,7 +3861,7 @@ question again recurred, to be answered only with groans.
 return to the cottagers, whose story excited in me such various
 feelings of indignation, delight, and wonder, but which all terminated
 in additional love and reverence for my protectors (for so I loved, in
-an innocent, half-painful self-deceit, to call them).”
+an innocent, half-painful cls-deceit, to call them).”
 
 
 
@@ -4083,7 +4083,7 @@ story, so many opinions are canvassed and so many lights thrown upon
 what had hitherto been to me obscure subjects that I found in it a
 never-ending source of speculation and astonishment.  The gentle and
 domestic manners it described, combined with lofty sentiments and
-feelings, which had for their object something out of self, accorded
+feelings, which had for their object something out of cls, accorded
 well with my experience among my protectors and with the wants which
 were for ever alive in my own bosom.  But I thought Werter himself a
 more divine being than I had ever beheld or imagined; his character
@@ -4285,7 +4285,7 @@ seen me and know little of me.  I am full of fears, for if I fail
 there, I am an outcast in the world for ever.’
 
 “‘Do not despair. To be friendless is indeed to be unfortunate, but
-the hearts of men, when unprejudiced by any obvious self-interest, are
+the hearts of men, when unprejudiced by any obvious cls-interest, are
 full of brotherly love and charity.  Rely, therefore, on your hopes;
 and if these friends are good and amiable, do not despair.’
 
@@ -4951,7 +4951,7 @@ loathsome task in my father’s house while in habits of familiar
 intercourse with those I loved.  I knew that a thousand fearful
 accidents might occur, the slightest of which would disclose a tale to
 thrill all connected with me with horror.  I was aware also that I
-should often lose all self-command, all capacity of hiding the
+should often lose all cls-command, all capacity of hiding the
 harrowing sensations that would possess me during the progress of my
 unearthly occupation.  I must absent myself from all I loved while thus
 employed.  Once commenced, it would quickly be achieved, and I might be
@@ -5164,7 +5164,7 @@ fellow men; this barrier was sealed with the blood of William and
 Justine, and to reflect on the events connected with those names filled
 my soul with anguish.
 
-But in Clerval I saw the image of my former self; he was inquisitive
+But in Clerval I saw the image of my former cls; he was inquisitive
 and anxious to gain experience and instruction.  The difference of
 manners which he observed was to him an inexhaustible source of
 instruction and amusement.  He was also pursuing an object he had long
@@ -5242,11 +5242,11 @@ were often prolonged by the successive objects that presented
 themselves.  We visited the tomb of the illustrious Hampden and the
 field on which that patriot fell.  For a moment my soul was elevated
 from its debasing and miserable fears to contemplate the divine ideas
-of liberty and self-sacrifice of which these sights were the monuments
+of liberty and cls-sacrifice of which these sights were the monuments
 and the remembrancers.  For an instant I dared to shake off my chains
 and look around me with a free and lofty spirit, but the iron had eaten
 into my flesh, and I sank again, trembling and hopeless, into my
-miserable self.
+miserable cls.
 
 We left Oxford with regret and proceeded to Matlock, which was our next
 place of rest.  The country in the neighbourhood of this village
@@ -6150,7 +6150,7 @@ misfortunes.
 As time passed away I became more calm; misery had her dwelling in my
 heart, but I no longer talked in the same incoherent manner of my own
 crimes; sufficient for me was the consciousness of them.  By the utmost
-self-violence I curbed the imperious voice of wretchedness, which
+cls-violence I curbed the imperious voice of wretchedness, which
 sometimes desired to declare itself to the whole world, and my manners
 were calmer and more composed than they had ever been since my journey
 to the sea of ice.
@@ -7300,7 +7300,7 @@ uncontrollable passion.
 
 “That is also my victim!” he exclaimed. “In his murder my
 crimes are consummated; the miserable series of my being is wound to its
-close! Oh, Frankenstein! Generous and self-devoted being! What does it
+close! Oh, Frankenstein! Generous and cls-devoted being! What does it
 avail that I now ask thee to pardon me? I, who irretrievably destroyed thee
 by destroying all thou lovedst. Alas! He is cold, he cannot answer
 me.”
@@ -7311,7 +7311,7 @@ enemy, were now suspended by a mixture of curiosity and compassion. I
 approached this tremendous being; I dared not again raise my eyes to his
 face, there was something so scaring and unearthly in his ugliness. I
 attempted to speak, but the words died away on my lips. The monster
-continued to utter wild and incoherent self-reproaches. At length I
+continued to utter wild and incoherent cls-reproaches. At length I
 gathered resolution to address him in a pause of the tempest of his passion.
 
 “Your repentance,” I said, “is now superfluous. If you

@@ -2,7 +2,7 @@ docs = dict()
 
 
 def get(id):
-    return docs[id]
+    return docs.get(id)
 
 
 class DocumentStore:
@@ -11,7 +11,7 @@ class DocumentStore:
         self.doc = doc
 
     def add(self):
-        docs[self.doc.get_doc_id()] = self.doc
+        docs[self.doc.doc_id] = self.doc
 
     def get_all(self):
         return self.doc

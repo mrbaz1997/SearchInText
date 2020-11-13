@@ -17,10 +17,12 @@ for name in texts:
     stream = open(join(resource, name), 'rb').read()
     body = str(stream).lower()
     name = name.replace(".txt", "")
+
     document = Document(name, body)
-    store(document).add()
-    print("Indexing {0}".format(name))
-    index(document, table).add()
+    if not store(document).exist_doc():
+        store(document).add()
+        print("Indexing {0}".format(name))
+        index(document, table).add()
 print("Loading...")
 table.close()
 
