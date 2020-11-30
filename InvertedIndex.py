@@ -37,27 +37,19 @@ class NormalizedInvertedIndex:
 
     def __init__(self, doc, table):
         self.doc = doc
-        # self.tokens = doc
         self.table = table
         self.distinct_tokens = set()
-        # self.positional_index = dict()
         self.counter = 0
         self.next_progress = 0
 
     def add(self):
-        # tokens = re.findall(r"[\w']+", self.doc.get_body())
         tokens = self.doc.get_body()
 
         position = 0
-        for token in tokens:
-            self.distinct_tokens.add(token)
+        # for token in tokens:
+        #     self.distinct_tokens.add(token)
 
         for token in tokens:
-            # progress = int((self.counter * 100 / len(self.distinct_tokens)))
-            # self.counter += 1
-            # if progress - self.next_progress == 1:
-            #     self.next_progress = progress
-            # print("|", end="", flush=True)
 
             # tmp = list()
             positions = list()
@@ -75,6 +67,3 @@ class NormalizedInvertedIndex:
             self.table[token][self.doc.doc_id] = positions
             # print()
             position += 1
-
-        # print(self.table)
-        # return self.table
