@@ -1,5 +1,3 @@
-import tashaphyne.normalize as ac
 
-strin = "کنیه: ابومحمدنام کوچک: مُصلِحتخلص شعری: سعدینسبت: مؤمن شیرازی"
-
-print(ac.strip_tatweel(strin))
+for x in range(1, 3):
+    print(x)
