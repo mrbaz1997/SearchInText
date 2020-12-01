@@ -50,7 +50,6 @@ class NormalizedInvertedIndex:
         #     self.distinct_tokens.add(token)
 
         for token in tokens:
-
             # tmp = list()
             positions = list()
             if token not in self.table:

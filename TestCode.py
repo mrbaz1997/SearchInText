@@ -114,7 +114,6 @@ print("\n")
 print(spend_time("Tokenize", Tokenization_time[1]))
 print(spend_time("Normalize", normalization_time[1]))
 print(spend_time("Indexing", indexing_time[1]))
-
 # print(table)
 
 
